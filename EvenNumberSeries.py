@@ -7,7 +7,6 @@ if n%2 == 0:
         sum=sum+x
     print(sum)
 else:
-    print("Sorry! the program is calculate the series of even numbers.Try again.")
-
-
+    print("Sorry! the program calculates the series of even numbers.Try again.")
+
 
